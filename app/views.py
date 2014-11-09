@@ -10,8 +10,8 @@ from models import User
 from bson.objectid import ObjectId
 import json
 
-MONGODB_URI = 'mongodb://ironman:stark@ds035280.mongolab.com:35280/test_db' 
-SECRET_KEY_ADMIN = '123456789'
+MONGODB_URI = '' 
+SECRET_KEY_ADMIN = ''
 
 """
     An index page for displaying all the Artices posted by Admins of the CMS
